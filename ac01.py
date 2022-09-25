@@ -1,3 +1,6 @@
+# ARQUIVO MODIFICADO PARA TESTAR UMA COMMIT DIRETO PELO GITHUB
+
+
 # INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
 # ALUNO: Leonardo Araujo Ieva - RA: 2202124
 
@@ -124,4 +127,3 @@ def caracteres_unicos(texto):
   contagem_unicos = len(lista_car_unicos)
   
   return contagem_unicos
-    
